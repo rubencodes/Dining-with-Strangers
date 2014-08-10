@@ -1,0 +1,1 @@
+<? function root() {return "http://DiningWithStrangers.co/";} ?>
