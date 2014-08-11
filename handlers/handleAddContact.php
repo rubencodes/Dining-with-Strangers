@@ -15,6 +15,8 @@ curl_setopt_array($curl, array(
 ));
 $resp = curl_exec($curl);
 curl_close($curl);
-if(strcmp($resp, "false") == 0) header('Location: '.root().'viewDates.php?contact=false');
-else header('Location: '.root().'viewDates.php?contact='.$converter->encode($contact));
+if(strcmp($resp, "false") == 0) 
+	header('Location: '.root().'viewDates.php?contact=false');
+else 
+	header('Location: '.root().'viewDates.php?contact='.$converter->encode($contact));
 ?>
