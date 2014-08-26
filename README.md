@@ -4,6 +4,11 @@ Dining with Strangers
 This is the full codebase for the Dining with Strangers project. It is primarily a PHP code base with some JS in the front-end.
 
 ##About
+Read more about DwS at the following links:
+- [Student's Online Tool Connects Strangers in Real World](http://community.bowdoin.edu/news/2013/11/students-online-tool-connects-strangers-in-real-world/)
+- [Ruben Martinez ’15 Updates Bowdoin Tradition of ‘Dining With Strangers’](http://community.bowdoin.edu/news/2013/08/ruben-martinez-15-updates-bowdoin-tradition-of-dining-with-strangers/#.Ufu501WzIpM)
+- [Student-designed website offers new opportunities to socialize](http://bowdoinorient.com/article/8415)
+
 >At Bowdoin, it's very easy to fall into the habit of enjoying the comfort of a few friends, and becoming isolated from the rest of the school. In order to combat this, I designed an app for iPhone and Web that revolves around one of the highlights of the College: that is, Dining. Every semester, a student group organizes an event they call "Dinner with Strangers", that has the purpose of breaking apart cliques and helping people get to know others they wouldn't normally come across. Thus, my Dining with Strangers app has the same goal, but with the convenience of it happening whenever you want, wherever you choose.
 
 ##Code Structure
