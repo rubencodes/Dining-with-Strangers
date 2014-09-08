@@ -8,10 +8,10 @@
 
 function connect()
 {
-    $host      = "BowdoinStrangers.db.11389874.hostedresource.com";
-    $database  = "BowdoinStrangers";
-    $user      = "BowdoinStrangers";
-    $password  = "DwS1029Rox!";
+    $host      = “”;
+    $database  = "";
+    $user      = "";
+    $password  = "";
     $connected = mysql_connect($host, $user, $password);
     if (!$connected)
         return mysql_error();
